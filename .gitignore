@@ -1,0 +1,12 @@
+env_files_export/
+.DS_Store
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+*.pid
+*.pid.lock
+*.db
+*.sqlite
+*.sqlite3
