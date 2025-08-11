@@ -92,7 +92,3 @@ Run the script by providing the directory to search:
 ```sh
 copy_envs /path/to/search/directory
 ```
-
-```
-
-```
